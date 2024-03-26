@@ -1,0 +1,37 @@
+body{
+    width: 100vw;
+    height:auto;
+    font-family: sans-serif;
+    font-size: 1rem;
+    text-align: justify;
+    text-shadow: 0;
+}
+.right{
+    position:absolute;
+    right: 0;
+}
+.left{
+position: absolute;
+left: 0;
+}
+span{
+    margin: 50px;
+}
+.set1{
+    top: 0;
+    bottom: 0;
+    width: 95px;
+    padding: 80px;
+    color: white;
+}
+.set{
+    width: 100px;
+    height: 10px;
+    padding: 0%;
+
+}
+.rightp{
+    position: absolute;
+    right: 0%;
+   border-top-right-radius: 50%; 
+}
